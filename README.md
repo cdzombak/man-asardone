@@ -11,10 +11,10 @@ Adds a manual entry for `asardone` to OS X systems.
 
 `sudo` will prompt for your password as necessary.
 
-# @andrewsardone's reaction
+# [@andrewsardone](https://github.com/andrewsardone)'s reaction
 
 ![](http://deathandtaxesmag.wpengine.netdna-cdn.com/wp-content/uploads/2012/09/MrTear.gif)
 
-# via
+# originally via
 
-@mikelinington
+[@mikelinington](https://github.com/mikelinington)
