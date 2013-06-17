@@ -2,6 +2,8 @@
 
 Adds a manual entry for `asardone` to OS X systems.
 
+Not corporate.
+
 # install
 
     git clone git://github.com/cdzombak/man-asardone.git
